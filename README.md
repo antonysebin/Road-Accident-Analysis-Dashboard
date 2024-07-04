@@ -25,4 +25,6 @@ Enhanced Road Safety: By identifying trends and high-risk areas  we can implemen
 Informed Decision-Making: Actionable insights will support data-driven decision-making.
 Resource Allocation: Better allocation of resources for road safety initiatives based on data-driven insights.
 
-![DASBOARD](https://github.com/antonysebin/Road-Accident-Analysis-Dashboard/assets/122266664/1ea7ff2e-fc34-407d-9319-dc3c5b3f70cc)
+![ROAD-ACCIDENT-DASHBOARD](https://github.com/antonysebin/Road-Accident-Analysis-Dashboard/assets/122266664/638c3b28-49fa-405e-99b5-8cf7f18f4438)
+
+
